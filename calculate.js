@@ -5,19 +5,19 @@ const {parse, differenceInDays} = require('date-fns');
 
 const finalPrice = {
     BTC: 38415.6,
-    ETH: 3000,
-    MATIC: 1,
-    BNB: 1,
-    SOL: 1,
+    ETH: 2074.32,
+    MATIC: 0.8824,
+    BNB: 283.5,
+    SOL: 92.18,
     ADA: 0.5404,
 }
 
 const initialPrice = {
     BTC: 15469.0,
-    ETH: 3000,
-    MATIC: 1,
-    BNB: 1,
-    SOL: 1,
+    ETH: 1117.41,
+    MATIC: 0.7084,
+    BNB: 227.4,
+    SOL: 9.30,
     ADA: 0.2333
 }
 
